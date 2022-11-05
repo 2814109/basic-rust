@@ -11,5 +11,4 @@ fn main() {
     }
 
      println!("sum = {}", sum);
-    // assert_eq!(sum, 55);
 }
